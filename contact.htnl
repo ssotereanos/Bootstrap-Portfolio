@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="em-us">
+<html>
+<head>
+<meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <title>
+ Stella Sotereanos-Portfolio
+    </title>
+    <style>
+
+</style>
+</head>
+<body>
+    <nav class="navbar navbar-default">
+    <span class="border-top-0"></span>
+    <div class="container">
+    <div class="container-fluid">
+    <div class="navbar-header">
+    <a class="navbar-brand" href="#">Stella Sotereanos</a>
+    </div>
+      <ul class="nav navbar-nav navbar-right">
+      <li class="active">
+      <li><a href="index.html">About</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+ </div>
+</div>
+</nav>
+
+
+  
+<div id="main-container">
+ <!-- About Me section -->
+                <div class="col-xs-12 col-md-4">
+                    <section class="panel panel-primary">
+
+                        <header class="panel-heading">
+                            <h3>Connect with Me</h3>
+                        </header>
+
+                        <div class="panel-body text-center">
+                            <a class="col-xs-4" href="https://github.com/cbrenner04" target="_blank">
+                                <img src="assets/images/GitHub-Mark-120px-plus.png" alt="GitHub icon" width="50">
+                            </a>
+
+                            <a class="col-xs-4" href="https://www.linkedin.com/in/christopher-brenner-mph-b3a12427" target="_blank">
+                                <img src="assets/images/In-2CRev-128px-R.png" alt="Linkedin icon" width="50">
+                            </a>
+
+                            <a class="col-xs-4" href="http://stackoverflow.com/users/6731497/" target="_blank">
+                                <img src="assets/images/so-icon.png" alt="StackOverflow icon" width="50">
+                            </a>
+                        </div>
+
+                    </section>
+                </div>
+
+            </div>
+
+
+ 
+
+
+
+
+
+<aside>
+<div class=""col-xs-12 col-md-4 col-lg-3"">
+        <div class="panel panel-default panel-right">
+          <div class="panel-heading">
+            <h3 class="panel-title">Connect with me</h3>
+          </div>
+       <div id="social_images">
+       <a href="https://github.com/ssotereanos" target=_"blank"><img src="assets/images/github.png" alt="GitHub"></a>
+       <a href="https://www.linkedin.com/in/stella-sotereanos-46026510b/" target=_"blank"><img src="assets/images/Linkedin.png" alt="LinkedIn Profile"></a>
+       <a href="https://stackoverflow.com/users/8716665/stella-sotereanos?tab=profile" target=_"blank"><img src="assets/images/stackoverflow.png" alt=StackOverFlow></a>
+        </div> 
+       <div class="panel-body">
+            
+
+          </div>
+        </div>
+      </div>
+    </aside>
+</div>
+</div>
+
+
+
+
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container">
+    <div class="col-sm-12 text-center navbar-text">
+        &copy; Copyright 2017 Stella Sotereanos
+    </div>
+  </div>
+</nav>
+
+
+
+</body>
+</html>
